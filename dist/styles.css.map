@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss","styles.css"],"names":[],"mappings":"AAAA,KACE,qBCCF","file":"styles.css","sourcesContent":["body {\r\n  background-color: aqua;\r\n}","body {\n  background-color: aqua;\n}\n/*# sourceMappingURL=styles.css.map */\n"]}
